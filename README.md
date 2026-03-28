@@ -1,10 +1,10 @@
  🛒 Customer Shopping Behaviour Analysis
  Power BI Dashboard | Data Storytelling Project
-< a href = "https://github.com/anidata3099/Customer-behaviour-analysis/blob/main/Screenshot%20(161).png">Dashboard</a>
+![Dashboard](https://github.com/anidata3099/Customer-behaviour-analysis/blob/main/Screenshot%20(161).png)
 
 
-< a href ="https://github.com/anidata3099/Customer-behaviour-analysis/blob/main/starbucks_customer_ordering_patterns.csv" >Dataset</a>
-< a href = "https://github.com/anidata3099/Customer-behaviour-analysis/blob/main/Customer%20Behaviour%20sale%20Analysis.pbix"> customer behaviour sales analysis project </a>
+![Dataset](https://github.com/anidata3099/Customer-behaviour-analysis/blob/main/starbucks_customer_ordering_patterns.csv)
+![customer behaviour sales analysis project](https://github.com/anidata3099/Customer-behaviour-analysis/blob/main/Customer%20Behaviour%20sale%20Analysis.pbix") 
 📌 Project Overview
 
 This project analyzes customer shopping behaviour using an interactive Power BI dashboard. It explores revenue patterns, customer demographics, seasonal trends, product preferences, and loyalty program effectiveness — providing actionable insights for business decision-making.
