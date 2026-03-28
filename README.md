@@ -1,10 +1,14 @@
- 🛒 Customer Shopping Behaviour Analysis
- Power BI Dashboard | Data Storytelling Project
+🛒 Customer Shopping Behaviour Analysis
+Power BI Dashboard | Data Storytelling Project
+
+
+
+
+
 ![Dashboard](https://github.com/anidata3099/Customer-behaviour-analysis/blob/main/Screenshot%20(161).png)
 
 
-![Dataset](https://github.com/anidata3099/Customer-behaviour-analysis/blob/main/starbucks_customer_ordering_patterns.csv)
-![customer behaviour sales analysis project](https://github.com/anidata3099/Customer-behaviour-analysis/blob/main/Customer%20Behaviour%20sale%20Analysis.pbix") 
+
 📌 Project Overview
 
 This project analyzes customer shopping behaviour using an interactive Power BI dashboard. It explores revenue patterns, customer demographics, seasonal trends, product preferences, and loyalty program effectiveness — providing actionable insights for business decision-making.
@@ -23,7 +27,7 @@ This project analyzes customer shopping behaviour using an interactive Power BI 
 
 ---
 
- 🔍 Key Insights
+🔍 Key Insights
 
  1. Gender Spending is Nearly Equal
 Female customers account for 45% of total spend (€674K), while male customers contribute 44.66% (€663K). The brand has strong cross-gender appeal — no single group dominates revenue.
@@ -35,6 +39,7 @@ The top 5 categories — Refresher, Tea, Frappuccino, Espresso, and Other — ar
 The 25–34 age group is the top contributor at €462.95K (≈31%), followed by 35–44 at €353.79K. Together they account for over half of all revenue — making young professionals the core target segment.
 
 4. West Region Leads Geographically
+
 | Region | Revenue |
 |---|---|
 | West | € 337,395 |
@@ -83,10 +88,12 @@ customer-behaviour-powerbi/
 ```
 
 ---
-👤 Author
+
+## 👤 Author
+
 
 📎 [GitHub Profile](https://github.com/anidata3099)
 
 ---
 
-> This project is part of my Data Analytics & AI Engineering portfolio.
+This project is part of my Data Analytics & AI Engineering portfolio.
